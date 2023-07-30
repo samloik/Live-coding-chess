@@ -1,0 +1,3 @@
+https://hub.github.com/
+
+git
